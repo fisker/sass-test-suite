@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/string/split.hrx
+
 export default [
   {
     name: 'empty_string/input.scss',

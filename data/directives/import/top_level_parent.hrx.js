@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/import/top_level_parent.hrx
+
 export default [
   {
     name: 'top_level_parent/input.scss',

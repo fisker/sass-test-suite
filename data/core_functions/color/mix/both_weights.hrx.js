@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/mix/both_weights.hrx
+
 export default [
   {
     name: 'transparent/first/input.scss',

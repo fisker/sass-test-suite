@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/use/extend/diamond.hrx
+
 export default [
   {
     name: 'merge/input.scss',

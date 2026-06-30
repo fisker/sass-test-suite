@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/misc/trailing_comma_in_selector.hrx
+
 export default [
   {
     name: 'input.scss',

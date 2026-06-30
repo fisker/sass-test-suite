@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/unify/complex/combinators/multiple.hrx
+
 export default [
   {
     name: 'isolated/input.scss',

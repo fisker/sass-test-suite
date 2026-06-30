@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/183_test_multiple_extender_merges_with_superset_selector.hrx
+
 export default [
   {
     name: 'input.scss',

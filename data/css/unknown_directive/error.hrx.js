@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/unknown_directive/error.hrx
+
 export default [
   {
     name: 'space_after_at/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/same.hrx
+
 export default [
   {
     name: 'true/same_space/identical/input.scss',

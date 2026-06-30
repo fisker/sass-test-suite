@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/188_test_unused_placeholder_selector.hrx
+
 export default [
   {
     name: 'input.scss',

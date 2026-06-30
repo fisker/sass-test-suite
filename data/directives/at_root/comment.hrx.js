@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/at_root/comment.hrx
+
 export default [
   {
     name: 'before_query/loud/input.scss',

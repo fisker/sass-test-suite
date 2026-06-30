@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/079_test_pseudoelement_remains_at_end_of_selector.hrx
+
 export default [
   {
     name: 'input.scss',

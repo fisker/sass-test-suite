@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/basic/22_colors_with_alpha.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/media/type.hrx
+
 export default [
   {
     name: 'not/input.scss',

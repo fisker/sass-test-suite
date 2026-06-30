@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/forward/error/member/inaccessible.hrx
+
 export default [
   {
     name: 'local/variable/input.scss',

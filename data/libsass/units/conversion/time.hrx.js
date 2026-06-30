@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/libsass/units/conversion/time.hrx
+
 export default [
   {
     name: 'input.scss',

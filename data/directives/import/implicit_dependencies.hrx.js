@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/import/implicit_dependencies.hrx
+
 export default [
   {
     name: 'no_forward/no_use/input.scss',

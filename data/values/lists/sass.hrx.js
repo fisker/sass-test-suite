@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/values/lists/sass.hrx
+
 export default [
   {
     name: 'inline/comma/input.sass',

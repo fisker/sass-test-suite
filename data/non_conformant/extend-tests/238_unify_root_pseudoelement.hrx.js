@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/238_unify_root_pseudoelement.hrx
+
 export default [
   {
     name: 'input.scss',

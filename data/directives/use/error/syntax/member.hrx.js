@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/use/error/syntax/member.hrx
+
 export default [
   {
     name: 'identifier_only/input.scss',

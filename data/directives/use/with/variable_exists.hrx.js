@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/use/with/variable_exists.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/hsl/three_args/named.hrx
+
 export default [
   {
     name: 'input.scss',

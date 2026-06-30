@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/libsass-closed-issues/issue_1590/quoted-ampersand-does-not-select.hrx
+
 export default [
   {
     name: 'input.scss',

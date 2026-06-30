@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/extend/simple/pseudo/selector/idempotent/nth_child.hrx
+
 export default [
   {
     name: 'simple/input.scss',

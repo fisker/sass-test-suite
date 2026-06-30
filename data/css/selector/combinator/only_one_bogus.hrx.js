@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/selector/combinator/only_one_bogus.hrx
+
 export default [
   {
     name: 'input.scss',

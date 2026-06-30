@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/newlines.hrx
+
 export default [
   {
     name: 'after_paren/input.sass',

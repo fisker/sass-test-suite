@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/warn.hrx
+
 export default [
   {
     name: 'position/top_level/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/values/calculation/calc/error/known_incompatible/time.hrx
+
 export default [
   {
     name: 's/hz/input.scss',

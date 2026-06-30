@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/mix/explicit_weight.hrx
+
 export default [
   {
     name: 'even/input.scss',

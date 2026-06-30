@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/use/error/with/core_module.hrx
+
 export default [
   {
     name: 'input.scss',

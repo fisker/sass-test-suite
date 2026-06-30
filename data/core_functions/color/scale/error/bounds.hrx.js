@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/scale/error/bounds.hrx
+
 export default [
   {
     name: 'legacy/too_low/input.scss',

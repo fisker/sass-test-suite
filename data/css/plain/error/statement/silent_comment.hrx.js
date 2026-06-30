@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/plain/error/statement/silent_comment.hrx
+
 export default [
   {
     name: 'input.scss',

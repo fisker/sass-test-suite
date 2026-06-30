@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/libsass-todo-issues/issue_1694/quoted-right-dbl-paren.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss-tests/121_test_prop_name_only_interpolation.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/libsass-todo-issues/issue_1732/invalid/ruleset.hrx
+
 export default [
   {
     name: 'input.scss',

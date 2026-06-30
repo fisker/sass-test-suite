@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/import/configuration/midstream_definition.hrx
+
 export default [
   {
     name: 'with_config/input.scss',

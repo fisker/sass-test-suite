@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/parser/interpolate/22_escapes_single_quoted_uppercase/06_escape_interpolation.hrx
+
 export default [
   {
     name: 'input.scss',

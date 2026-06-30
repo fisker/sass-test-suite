@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/functions/special_variable.hrx
+
 export default [
   {
     name: 'README.md',

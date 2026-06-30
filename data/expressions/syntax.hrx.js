@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/expressions/syntax.hrx
+
 export default [
   {
     name: 'error/single_dot/input.scss',

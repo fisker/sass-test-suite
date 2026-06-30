@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/operators/newlines.hrx
+
 export default [
   {
     name: 'binary/after/input.sass',

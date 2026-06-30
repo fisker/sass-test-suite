@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/errors/import/file/simple.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/supports/syntax/anything.hrx
+
 export default [
   {
     name: 'ident_only/input.scss',

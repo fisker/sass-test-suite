@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/parser/operations/logic_ne/strings/pairs.hrx
+
 export default [
   {
     name: 'input.scss',

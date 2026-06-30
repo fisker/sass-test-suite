@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/008_test_multiple_extends_with_single_extender_and_single_target.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/rgb/one_arg/alpha.hrx
+
 export default [
   {
     name: 'in_gamut/transparent/input.scss',

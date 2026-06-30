@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/unify/complex/combinators/child.hrx
+
 export default [
   {
     name: 'and_descendant/distinct/input.scss',

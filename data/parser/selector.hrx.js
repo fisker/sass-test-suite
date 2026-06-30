@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/parser/selector.hrx
+
 export default [
   {
     name: 'escaped_backslash/input.scss',

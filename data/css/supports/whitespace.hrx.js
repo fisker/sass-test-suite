@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/supports/whitespace.hrx
+
 export default [
   {
     name: 'before_query/scss/input.scss',

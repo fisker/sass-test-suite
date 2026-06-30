@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/values/calculation/calc/error/syntax.hrx
+
 export default [
   {
     name: 'empty/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/extend/bogus.hrx
+
 export default [
   {
     name: 'leading/input.scss',

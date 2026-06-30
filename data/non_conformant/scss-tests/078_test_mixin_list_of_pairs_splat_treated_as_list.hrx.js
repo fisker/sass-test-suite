@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss-tests/078_test_mixin_list_of_pairs_splat_treated_as_list.hrx
+
 export default [
   {
     name: 'input.scss',

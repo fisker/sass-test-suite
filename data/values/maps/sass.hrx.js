@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/values/maps/sass.hrx
+
 export default [
   {
     name: 'whitespace/none/input.sass',

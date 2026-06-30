@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/extend/pseudo.hrx
+
 export default [
   {
     name: 'into_pseudo/extends_after/input.scss',

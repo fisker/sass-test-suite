@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss-tests/087_test_function_splat_expression.hrx
+
 export default [
   {
     name: 'input.scss',

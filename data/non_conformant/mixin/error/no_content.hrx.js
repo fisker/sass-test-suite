@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/mixin/error/no_content.hrx
+
 export default [
   {
     name: 'input.scss',

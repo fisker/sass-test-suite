@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/plain/functions.hrx
+
 export default [
   {
     name: 'defined_elsewhere/input.scss',

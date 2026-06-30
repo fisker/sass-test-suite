@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/nesting/not.hrx
+
 export default [
   {
     name: 'multiple_parent_selectors_with_trailing_ident/input.scss',

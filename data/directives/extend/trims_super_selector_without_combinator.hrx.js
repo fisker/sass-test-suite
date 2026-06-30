@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/extend/trims_super_selector_without_combinator.hrx
+
 export default [
   {
     name: 'options.yml',

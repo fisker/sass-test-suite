@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/unify/simple/class.hrx
+
 export default [
   {
     name: 'same/input.scss',

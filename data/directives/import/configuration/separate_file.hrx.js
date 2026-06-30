@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/import/configuration/separate_file.hrx
+
 export default [
   {
     name: 'direct/input.scss',

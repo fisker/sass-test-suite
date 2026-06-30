@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/extend/complex/with_unification.hrx
+
 export default [
   {
     name: 'parent/without_grandparent/simple/input.scss',

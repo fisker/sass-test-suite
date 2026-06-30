@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/nest/one_arg.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/scale/error/mixed_formats.hrx
+
 export default [
   {
     name: 'red_and_saturation/input.scss',

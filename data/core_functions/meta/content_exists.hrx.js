@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/meta/content_exists.hrx
+
 export default [
   {
     name: 'false/top_level/input.scss',

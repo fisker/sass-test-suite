@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/media/indentation.hrx
+
 export default [
   {
     name: 'simple_selector_on_different_lines/input.scss',

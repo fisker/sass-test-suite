@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss-tests/041_test_newlines_in_selectors.hrx
+
 export default [
   {
     name: 'input.scss',

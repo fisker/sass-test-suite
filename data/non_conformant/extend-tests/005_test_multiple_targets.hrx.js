@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/005_test_multiple_targets.hrx
+
 export default [
   {
     name: 'input.scss',

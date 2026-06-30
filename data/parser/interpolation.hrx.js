@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/parser/interpolation.hrx
+
 export default [
   {
     name: 'whitespace/after_open/input.sass',

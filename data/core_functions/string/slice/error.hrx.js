@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/string/slice/error.hrx
+
 export default [
   {
     name: 'type/string/input.scss',

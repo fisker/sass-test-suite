@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/functions/special/unprefixed.hrx
+
 export default [
   {
     name: 'lowercase/url/exclam/only/input.scss',

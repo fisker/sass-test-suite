@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/meta/load_css/with/dash_insensitive.hrx
+
 export default [
   {
     name: 'input.scss',

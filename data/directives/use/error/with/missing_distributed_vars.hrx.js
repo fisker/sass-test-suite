@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/use/error/with/missing_distributed_vars.hrx
+
 export default [
   {
     name: 'README.md',

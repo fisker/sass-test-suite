@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/unknown_directive/name_interpolation.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/unify/complex/combinators/next_sibling.hrx
+
 export default [
   {
     name: 'and_descendant/input.scss',

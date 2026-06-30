@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/nest/error.hrx
+
 export default [
   {
     name: 'wrong_name/input.scss',

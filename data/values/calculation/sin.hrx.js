@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/values/calculation/sin.hrx
+
 export default [
   {
     name: 'README.md',

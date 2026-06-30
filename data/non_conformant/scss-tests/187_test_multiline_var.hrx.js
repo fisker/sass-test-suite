@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss-tests/187_test_multiline_var.hrx
+
 export default [
   {
     name: 'input.scss',

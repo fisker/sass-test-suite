@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/important.hrx
+
 export default [
   {
     name: 'syntax/sass/multiline/after_bang/input.sass',

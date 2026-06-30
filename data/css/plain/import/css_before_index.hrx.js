@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/plain/import/css_before_index.hrx
+
 export default [
   {
     name: 'input.scss',

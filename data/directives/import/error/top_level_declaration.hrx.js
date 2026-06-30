@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/import/error/top_level_declaration.hrx
+
 export default [
   {
     name: 'include/input.scss',

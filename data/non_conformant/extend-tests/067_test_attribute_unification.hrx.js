@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/067_test_attribute_unification.hrx
+
 export default [
   {
     name: 'input.scss',

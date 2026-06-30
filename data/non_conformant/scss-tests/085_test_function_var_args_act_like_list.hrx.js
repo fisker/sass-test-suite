@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss-tests/085_test_function_var_args_act_like_list.hrx
+
 export default [
   {
     name: 'input.scss',

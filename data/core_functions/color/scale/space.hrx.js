@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/scale/space.hrx
+
 export default [
   {
     name: 'legacy/to_legacy/input.scss',

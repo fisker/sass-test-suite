@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/ms_long_filter_syntax.hrx
+
 export default [
   {
     name: 'input.scss',

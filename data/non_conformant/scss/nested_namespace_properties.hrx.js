@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss/nested_namespace_properties.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/functions/not_special.hrx
+
 export default [
   {
     name: 'prefixed/lowercase/type/input.scss',

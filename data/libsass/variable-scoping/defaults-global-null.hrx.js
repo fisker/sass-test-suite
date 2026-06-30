@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/libsass/variable-scoping/defaults-global-null.hrx
+
 export default [
   {
     name: 'input.scss',

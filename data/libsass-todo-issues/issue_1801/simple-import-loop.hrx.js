@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/libsass-todo-issues/issue_1801/simple-import-loop.hrx
+
 export default [
   {
     name: 'input.scss',

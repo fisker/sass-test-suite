@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/append.hrx
+
 export default [
   {
     name: 'classes/single/input.scss',

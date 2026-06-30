@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/values/numbers/degenerate.hrx
+
 export default [
   {
     name: 'infinity/unitless/input.scss',

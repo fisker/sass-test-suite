@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/change/lab.hrx
+
 export default [
   {
     name: 'lightness/unitless/input.scss',

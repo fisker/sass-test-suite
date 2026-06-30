@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/plain/error/statement/style_rule.hrx
+
 export default [
   {
     name: 'nested_property/no_value/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/libsass-closed-issues/issue_185/selector_wrapper_media.hrx
+
 export default [
   {
     name: 'input.scss',

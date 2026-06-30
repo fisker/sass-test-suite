@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/use/error/with/multi_configuration.hrx
+
 export default [
   {
     name: 'README.md',

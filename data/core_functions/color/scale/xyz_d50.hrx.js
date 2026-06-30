@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/scale/xyz_d50.hrx
+
 export default [
   {
     name: 'x/max/input.scss',

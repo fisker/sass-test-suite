@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss-tests/106_test_basic_selector_interpolation.hrx
+
 export default [
   {
     name: 'input.scss',

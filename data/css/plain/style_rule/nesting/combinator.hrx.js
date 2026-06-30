@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/plain/style_rule/nesting/combinator.hrx
+
 export default [
   {
     name: 'input.scss',

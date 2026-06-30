@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/nesting/parent_with_newline.hrx
+
 export default [
   {
     name: 'input.scss',

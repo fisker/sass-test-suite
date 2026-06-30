@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/extend/named.hrx
+
 export default [
   {
     name: 'input.scss',

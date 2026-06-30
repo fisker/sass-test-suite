@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/adjust_color/error/missing_globals.hrx
+
 export default [
   {
     name: 'adjust_color/input.scss',

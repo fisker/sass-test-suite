@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/rgb/two_args.hrx
+
 export default [
   {
     name: 'opaque_to/opaque/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/is_powerless/space.hrx
+
 export default [
   {
     name: 'powerless/input.scss',

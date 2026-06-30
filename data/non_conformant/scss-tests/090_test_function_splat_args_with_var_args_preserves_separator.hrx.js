@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss-tests/090_test_function_splat_args_with_var_args_preserves_separator.hrx
+
 export default [
   {
     name: 'input.scss',

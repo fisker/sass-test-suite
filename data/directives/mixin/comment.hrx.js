@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/mixin/comment.hrx
+
 export default [
   {
     name: 'mixin/before_name/loud/input.scss',

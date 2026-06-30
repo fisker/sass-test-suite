@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/meta/get_function/error.hrx
+
 export default [
   {
     name: 'argument/type/name/input.scss',

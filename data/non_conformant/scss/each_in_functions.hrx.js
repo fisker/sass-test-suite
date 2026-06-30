@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss/each_in_functions.hrx
+
 export default [
   {
     name: 'input.scss',

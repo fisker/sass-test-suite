@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/227_test_nested_with_child_hack_extender_and_sibling_extendee.hrx
+
 export default [
   {
     name: 'input.scss',

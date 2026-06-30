@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/sass/pseudo.hrx
+
 export default [
   {
     name: 'input.sass',

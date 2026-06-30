@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/adjust_hue/fraction.hrx
+
 export default [
   {
     name: 'input.scss',

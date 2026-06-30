@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/meta/inspect/null.hrx
+
 export default [
   {
     name: 'input.scss',

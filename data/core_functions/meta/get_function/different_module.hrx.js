@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/meta/get_function/different_module.hrx
+
 export default [
   {
     name: 'defined/input.scss',

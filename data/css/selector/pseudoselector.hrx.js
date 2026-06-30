@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/selector/pseudoselector.hrx
+
 export default [
   {
     name: 'nested/adjacent_combinators/input.scss',

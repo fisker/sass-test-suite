@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/134_test_combinator_unification_for_hacky_combinators.hrx
+
 export default [
   {
     name: 'input.scss',

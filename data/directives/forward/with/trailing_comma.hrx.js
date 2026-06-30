@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/forward/with/trailing_comma.hrx
+
 export default [
   {
     name: 'single/input.scss',

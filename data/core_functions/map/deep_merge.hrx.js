@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/map/deep_merge.hrx
+
 export default [
   {
     name: 'shallow/empty/both/input.scss',

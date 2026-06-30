@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/use/error/member/before_use.hrx
+
 export default [
   {
     name: 'variable_use/input.scss',

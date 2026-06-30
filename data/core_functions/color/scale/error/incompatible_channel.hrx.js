@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/scale/error/incompatible_channel.hrx
+
 export default [
   {
     name: 'legacy_space/input.scss',

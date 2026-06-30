@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/misc/unicode_variables.hrx
+
 export default [
   {
     name: 'input.scss',

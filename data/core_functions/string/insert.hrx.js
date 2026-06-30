@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/string/insert.hrx
+
 export default [
   {
     name: 'empty_destination/empty_source/input.scss',

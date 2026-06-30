@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/variables.hrx
+
 export default [
   {
     name: 'global/first_declaration/top_level/input.scss',

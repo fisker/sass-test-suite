@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/propset.hrx
+
 export default [
   {
     name: 'simple/input.scss',

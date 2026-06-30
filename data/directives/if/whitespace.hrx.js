@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/if/whitespace.hrx
+
 export default [
   {
     name: 'if/before_condition/scss/input.scss',

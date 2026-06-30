@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/hwb/global.hrx
+
 export default [
   {
     name: 'alpha/in_gamut/transparent/input.scss',

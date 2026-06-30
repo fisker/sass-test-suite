@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/plain/import/scss_takes_precedence.hrx
+
 export default [
   {
     name: 'input.scss',

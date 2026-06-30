@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/import/load.hrx
+
 export default [
   {
     name: 'explicit_extension/sass/input.scss',

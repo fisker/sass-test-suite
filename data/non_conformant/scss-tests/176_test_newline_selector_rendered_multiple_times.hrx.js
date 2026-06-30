@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss-tests/176_test_newline_selector_rendered_multiple_times.hrx
+
 export default [
   {
     name: 'input.scss',

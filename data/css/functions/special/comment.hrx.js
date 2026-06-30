@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/functions/special/comment.hrx
+
 export default [
   {
     name: 'calc/after_open_paren/loud/input.scss',

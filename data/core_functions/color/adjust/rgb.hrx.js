@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/adjust/rgb.hrx
+
 export default [
   {
     name: 'red/max/input.scss',

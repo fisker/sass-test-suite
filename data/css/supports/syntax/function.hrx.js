@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/supports/syntax/function.hrx
+
 export default [
   {
     name: 'no_arg/input.scss',

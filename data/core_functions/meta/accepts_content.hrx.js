@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/meta/accepts_content.hrx
+
 export default [
   {
     name: 'accepts/direct_child/input.scss',

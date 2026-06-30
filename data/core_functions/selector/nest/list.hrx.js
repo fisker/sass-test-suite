@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/nest/list.hrx
+
 export default [
   {
     name: 'list/initial/input.scss',

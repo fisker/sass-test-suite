@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/import/configuration/unrelated_variable.hrx
+
 export default [
   {
     name: 'input.scss',

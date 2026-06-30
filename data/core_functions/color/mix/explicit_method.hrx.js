@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/mix/explicit_method.hrx
+
 export default [
   {
     name: 'srgb/input.scss',

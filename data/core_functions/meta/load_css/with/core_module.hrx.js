@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/meta/load_css/with/core_module.hrx
+
 export default [
   {
     name: 'indirect/input.scss',

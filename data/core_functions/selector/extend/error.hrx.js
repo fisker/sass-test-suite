@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/extend/error.hrx
+
 export default [
   {
     name: 'selector/parent/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/custom_properties/value_interpolation.hrx
+
 export default [
   {
     name: 'scss/value-interpolation/input.scss',

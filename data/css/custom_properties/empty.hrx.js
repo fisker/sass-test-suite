@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/custom_properties/empty.hrx
+
 export default [
   {
     name: 'literal/input.scss',

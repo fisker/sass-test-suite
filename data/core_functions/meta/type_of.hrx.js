@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/meta/type_of.hrx
+
 export default [
   {
     name: 'boolean/true/input.scss',

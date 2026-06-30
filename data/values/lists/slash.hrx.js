@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/values/lists/slash.hrx
+
 export default [
   {
     name: 'README.md',

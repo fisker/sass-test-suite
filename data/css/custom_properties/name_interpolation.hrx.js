@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/custom_properties/name_interpolation.hrx
+
 export default [
   {
     name: 'non_conformant/input.scss',

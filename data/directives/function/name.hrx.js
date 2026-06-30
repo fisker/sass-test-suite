@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/function/name.hrx
+
 export default [
   {
     name: 'custom_ident/call/input.scss',

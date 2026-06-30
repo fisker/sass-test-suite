@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/forward/member/import/forward_to_import.hrx
+
 export default [
   {
     name: 'mixin/input.scss',

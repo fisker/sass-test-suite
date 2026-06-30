@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/functions/special/prefixed/uppercase.hrx
+
 export default [
   {
     name: 'calc/number/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/moz_document/functions/static.hrx
+
 export default [
   {
     name: 'input.scss',

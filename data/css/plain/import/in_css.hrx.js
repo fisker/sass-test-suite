@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/plain/import/in_css.hrx
+
 export default [
   {
     name: 'string/input.scss',

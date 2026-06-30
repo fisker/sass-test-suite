@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/use/member/namespaced.hrx
+
 export default [
   {
     name: 'default/variable_use/input.scss',

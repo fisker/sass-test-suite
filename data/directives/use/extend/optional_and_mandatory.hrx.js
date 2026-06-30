@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/use/extend/optional_and_mandatory.hrx
+
 export default [
   {
     name: 'README.md',

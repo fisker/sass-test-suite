@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/values/strings.hrx
+
 export default [
   {
     name: 'new-line/scss/escaped/input.scss',

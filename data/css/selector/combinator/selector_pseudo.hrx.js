@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/selector/combinator/selector_pseudo.hrx
+
 export default [
   {
     name: 'middle/single/child/input.scss',

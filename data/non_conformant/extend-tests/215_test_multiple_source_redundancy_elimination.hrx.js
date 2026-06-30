@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/215_test_multiple_source_redundancy_elimination.hrx
+
 export default [
   {
     name: 'input.scss',

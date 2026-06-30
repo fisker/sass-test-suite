@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/import/error/not_found.hrx
+
 export default [
   {
     name: 'no_extension/input.scss',

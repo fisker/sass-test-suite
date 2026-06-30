@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/list/join/empty.hrx
+
 export default [
   {
     name: 'both/undecided/input.scss',

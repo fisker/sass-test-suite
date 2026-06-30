@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/unicode_range/range.hrx
+
 export default [
   {
     name: 'input.scss',

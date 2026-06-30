@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/mixin.hrx
+
 export default [
   {
     name: 'error/css/mixin/input.scss',

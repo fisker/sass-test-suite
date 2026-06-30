@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/supports/syntax/lone_interpolation.hrx
+
 export default [
   {
     name: 'top_level/alone/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/escape.hrx
+
 export default [
   {
     name: 'zero/input.scss',

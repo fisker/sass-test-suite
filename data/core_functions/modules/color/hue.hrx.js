@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/modules/color/hue.hrx
+
 export default [
   {
     name: 'input.scss',

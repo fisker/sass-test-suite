@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss/nested_rules.hrx
+
 export default [
   {
     name: 'input.scss',

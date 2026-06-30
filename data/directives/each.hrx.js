@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/each.hrx
+
 export default [
   {
     name: 'sass/inline/input.sass',

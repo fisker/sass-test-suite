@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/unicode_range/error.hrx
+
 export default [
   {
     name: 'ident_minus_space_ident/input.scss',

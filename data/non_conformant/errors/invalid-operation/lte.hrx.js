@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/errors/invalid-operation/lte.hrx
+
 export default [
   {
     name: 'input.scss',

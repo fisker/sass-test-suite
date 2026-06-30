@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/basic/02_simple_nesting.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/adjust/a98_rgb.hrx
+
 export default [
   {
     name: 'red/unitless/input.scss',

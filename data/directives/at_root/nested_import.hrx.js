@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/at_root/nested_import.hrx
+
 export default [
   {
     name: 'with_no_use/input.scss',

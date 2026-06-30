@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/use/member/nested_global_variable.hrx
+
 export default [
   {
     name: 'direct/input.scss',

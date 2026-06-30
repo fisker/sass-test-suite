@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/global/color/grayscale.hrx
+
 export default [
   {
     name: 'with_color/input.scss',

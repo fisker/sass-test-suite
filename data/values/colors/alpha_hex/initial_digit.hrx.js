@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/values/colors/alpha_hex/initial_digit.hrx
+
 export default [
   {
     name: 'input.scss',

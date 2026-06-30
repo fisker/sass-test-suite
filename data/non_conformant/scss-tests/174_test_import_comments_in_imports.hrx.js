@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss-tests/174_test_import_comments_in_imports.hrx
+
 export default [
   {
     name: 'input.scss',

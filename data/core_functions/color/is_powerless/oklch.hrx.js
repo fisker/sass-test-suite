@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/is_powerless/oklch.hrx
+
 export default [
   {
     name: 'hue/positive_chroma/input.scss',

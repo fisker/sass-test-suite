@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/forward/error/member/import_to_forward.hrx
+
 export default [
   {
     name: 'nested/variable/input.scss',

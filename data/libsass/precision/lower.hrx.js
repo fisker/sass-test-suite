@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/libsass/precision/lower.hrx
+
 export default [
   {
     name: 'options.yml',

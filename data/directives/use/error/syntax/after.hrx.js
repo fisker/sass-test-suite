@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/use/error/syntax/after.hrx
+
 export default [
   {
     name: 'at_rule/unknown/input.scss',

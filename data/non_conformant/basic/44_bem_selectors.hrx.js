@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/basic/44_bem_selectors.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/129_test_nested_extender_with_hacky_selector.hrx
+
 export default [
   {
     name: 'input.scss',

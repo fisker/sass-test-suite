@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/forward/member/shadowed.hrx
+
 export default [
   {
     name: 'variable_use/input.scss',

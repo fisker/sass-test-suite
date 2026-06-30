@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/libsass/selectors/variables/multiple/bare.hrx
+
 export default [
   {
     name: 'input.scss',

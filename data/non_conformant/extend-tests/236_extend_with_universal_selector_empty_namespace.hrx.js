@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/236_extend_with_universal_selector_empty_namespace.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/string/to_upper_case.hrx
+
 export default [
   {
     name: 'empty/input.scss',

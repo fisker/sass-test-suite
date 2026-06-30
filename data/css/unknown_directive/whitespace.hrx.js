@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/unknown_directive/whitespace.hrx
+
 export default [
   {
     name: 'no_children/before_value/scss/input.scss',

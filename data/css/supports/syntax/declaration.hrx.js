@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/supports/syntax/declaration.hrx
+
 export default [
   {
     name: 'plain/ident/input.scss',

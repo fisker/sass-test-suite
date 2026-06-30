@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/extend/error.hrx
+
 export default [
   {
     name: 'complex/input.scss',

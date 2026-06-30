@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/import/css.hrx
+
 export default [
   {
     name: 'unquoted/input.sass',

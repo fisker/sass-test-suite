@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/selector/parent.hrx
+
 export default [
   {
     name: 'alone/first/input.scss',

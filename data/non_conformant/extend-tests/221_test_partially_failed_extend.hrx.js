@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/221_test_partially_failed_extend.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/012_test_dynamic_extendee.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/libsass-closed-issues/issue_2243/sass.hrx
+
 export default [
   {
     name: 'input.sass',

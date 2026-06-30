@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/media/range/static.hrx
+
 export default [
   {
     name: 'input.scss',

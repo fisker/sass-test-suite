@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/is_powerless/error.hrx
+
 export default [
   {
     name: 'too_few_args/input.scss',

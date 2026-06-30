@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/oklch/alpha.hrx
+
 export default [
   {
     name: 'transparent/input.scss',

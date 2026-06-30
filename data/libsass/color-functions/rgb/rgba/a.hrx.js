@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/libsass/color-functions/rgb/rgba/a.hrx
+
 export default [
   {
     name: 'input.scss',

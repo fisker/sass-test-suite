@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/parser/interpolate/17_escapes_literal_lowercase/06_escape_interpolation.hrx
+
 export default [
   {
     name: 'input.scss',

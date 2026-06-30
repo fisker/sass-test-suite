@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/channel/display-p3.hrx
+
 export default [
   {
     name: 'local/red/input.scss',

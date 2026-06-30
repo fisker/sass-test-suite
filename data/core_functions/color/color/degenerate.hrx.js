@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/color/degenerate.hrx
+
 export default [
   {
     name: 'arg1/positive_infinity/input.scss',

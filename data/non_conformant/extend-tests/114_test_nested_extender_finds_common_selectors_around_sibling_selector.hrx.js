@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/114_test_nested_extender_finds_common_selectors_around_sibling_selector.hrx
+
 export default [
   {
     name: 'input.scss',

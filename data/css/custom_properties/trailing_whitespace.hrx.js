@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/custom_properties/trailing_whitespace.hrx
+
 export default [
   {
     name: 'scss/space/input.scss',

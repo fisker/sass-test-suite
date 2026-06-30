@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/global/color/error.hrx
+
 export default [
   {
     name: 'too_low/lighten/input.scss',

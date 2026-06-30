@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/plain/import/whitespace.hrx
+
 export default [
   {
     name: 'error/after_import/sass/input.sass',

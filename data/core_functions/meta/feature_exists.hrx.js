@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/meta/feature_exists.hrx
+
 export default [
   {
     name: 'README.md',

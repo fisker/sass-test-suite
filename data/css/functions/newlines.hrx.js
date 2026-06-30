@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/functions/newlines.hrx
+
 export default [
   {
     name: 'value/before/input.sass',

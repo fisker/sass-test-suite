@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/parser/operator_precedence.hrx
+
 export default [
   {
     name: 'mixed/input.scss',

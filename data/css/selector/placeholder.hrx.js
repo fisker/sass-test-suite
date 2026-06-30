@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/selector/placeholder.hrx
+
 export default [
   {
     name: 'pseudoselectors/is/solo/input.scss',

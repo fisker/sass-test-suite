@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/rgb/error/three_args.hrx
+
 export default [
   {
     name: 'red/type/input.scss',

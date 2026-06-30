@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/channel/hwb.hrx
+
 export default [
   {
     name: 'local/hue/input.scss',

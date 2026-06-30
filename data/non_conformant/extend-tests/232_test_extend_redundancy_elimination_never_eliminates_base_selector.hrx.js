@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/232_test_extend_redundancy_elimination_never_eliminates_base_selector.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/meta/module_mixins.hrx
+
 export default [
   {
     name: '_utils.scss',

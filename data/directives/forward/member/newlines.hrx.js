@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/forward/member/newlines.hrx
+
 export default [
   {
     name: 'hide/after/input.sass',

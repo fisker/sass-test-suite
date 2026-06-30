@@ -1,5 +1,6 @@
 import assert from 'node:assert'
 import fs from 'node:fs/promises'
+import {outdent} from 'outdent'
 import writePrettierFile from 'write-prettier-file'
 import {downloadFile, readZipFile} from './utilities.js'
 
@@ -93,7 +94,11 @@ await Promise.all([
   ...data.map(async ({name, files}) => {
     await writePrettierFile(
       new URL(name + '.js', DATA_DIRECTORY),
-      `export default ${JSON.stringify(files, undefined, 2)}`,
+      outdent`
+        // https://github.com/sass/sass-spec/blob/HEAD/spec/${name}
+
+        export default ${JSON.stringify(files, undefined, 2)}
+      `,
     )
   }),
   writePrettierFile(

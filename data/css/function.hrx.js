@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/function.hrx
+
 export default [
   {
     name: 'lowercase/parameter/input.scss',

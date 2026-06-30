@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/media/logic/and_not.hrx
+
 export default [
   {
     name: 'after_type/input.scss',

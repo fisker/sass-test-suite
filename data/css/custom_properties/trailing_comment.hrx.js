@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/custom_properties/trailing_comment.hrx
+
 export default [
   {
     name: 'scss/silent/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/list/join/multi.hrx
+
 export default [
   {
     name: 'auto/separator/input.scss',

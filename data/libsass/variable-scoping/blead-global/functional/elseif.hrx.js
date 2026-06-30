@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/libsass/variable-scoping/blead-global/functional/elseif.hrx
+
 export default [
   {
     name: 'input.scss',

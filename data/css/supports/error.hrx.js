@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/supports/error.hrx
+
 export default [
   {
     name: 'syntax/none/input.scss',

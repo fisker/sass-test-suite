@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/values/colors/equality.hrx
+
 export default [
   {
     name: 'true/legacy/same_space/rgb/no_none/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/parse/structure.hrx
+
 export default [
   {
     name: 'full_string/quoted/input.scss',

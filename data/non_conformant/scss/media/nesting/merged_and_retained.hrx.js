@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss/media/nesting/merged_and_retained.hrx
+
 export default [
   {
     name: 'input.scss',

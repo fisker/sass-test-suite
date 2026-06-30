@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/ie_hex_str.hrx
+
 export default [
   {
     name: 'opaque/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss/css_cdo_and_cdc_ignored_at_toplevel.hrx
+
 export default [
   {
     name: 'input.scss',

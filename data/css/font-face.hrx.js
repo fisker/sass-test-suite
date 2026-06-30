@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/font-face.hrx
+
 export default [
   {
     name: 'bubble/rules/input.scss',

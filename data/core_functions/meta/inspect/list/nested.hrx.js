@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/meta/inspect/list/nested.hrx
+
 export default [
   {
     name: 'empty/in_space/bracketed/input.scss',

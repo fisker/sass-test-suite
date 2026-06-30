@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/extend/after_target.hrx
+
 export default [
   {
     name: 'multiple_recursive/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/media/logic/and.hrx
+
 export default [
   {
     name: 'one/input.scss',

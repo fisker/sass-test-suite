@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss/each_directive.hrx
+
 export default [
   {
     name: 'input.scss',

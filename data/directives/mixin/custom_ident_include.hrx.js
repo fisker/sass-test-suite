@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/mixin/custom_ident_include.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/unify/simple/universal.hrx
+
 export default [
   {
     name: 'and_type/default/and_explicit/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/libsass-todo-issues/issue_2295/error/wrapped.hrx
+
 export default [
   {
     name: 'input.scss',

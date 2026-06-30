@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/at_root/sass.hrx
+
 export default [
   {
     name: 'empty/no_query/input.sass',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/charset.hrx
+
 export default [
   {
     name: 'whitespace/scss/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/to_gamut/lab.hrx
+
 export default [
   {
     name: 'clip/input.scss',

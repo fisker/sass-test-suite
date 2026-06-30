@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/is_superselector/complex/child.hrx
+
 export default [
   {
     name: 'single/in_sub/input.scss',

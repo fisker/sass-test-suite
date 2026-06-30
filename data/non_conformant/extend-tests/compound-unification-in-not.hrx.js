@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/compound-unification-in-not.hrx
+
 export default [
   {
     name: 'input.scss',

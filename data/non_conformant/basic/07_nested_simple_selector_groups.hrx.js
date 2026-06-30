@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/basic/07_nested_simple_selector_groups.hrx
+
 export default [
   {
     name: 'input.scss',

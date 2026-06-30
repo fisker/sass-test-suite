@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/libsass/variables_in_media.hrx
+
 export default [
   {
     name: 'input.scss',

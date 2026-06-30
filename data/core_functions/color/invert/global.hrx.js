@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/invert/global.hrx
+
 export default [
   {
     name: 'legacy/input.scss',

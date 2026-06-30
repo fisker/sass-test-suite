@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/string/unique_id.hrx
+
 export default [
   {
     name: 'is_unique/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/errors/invalid-parent/function-in-each.hrx
+
 export default [
   {
     name: 'input.scss',

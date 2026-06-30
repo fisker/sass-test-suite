@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss/almost_ambiguous_nested_rules_and_declarations.hrx
+
 export default [
   {
     name: 'input.scss',

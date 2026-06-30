@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/string/slice/empty.hrx
+
 export default [
   {
     name: 'start/0/input.scss',

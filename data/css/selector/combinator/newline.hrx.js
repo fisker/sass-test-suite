@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/selector/combinator/newline.hrx
+
 export default [
   {
     name: 'child/before/input.sass',

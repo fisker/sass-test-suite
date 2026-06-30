@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/unify/compound.hrx
+
 export default [
   {
     name: 'no_overlap/input.scss',

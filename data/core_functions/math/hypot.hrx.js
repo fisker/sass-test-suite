@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/math/hypot.hrx
+
 export default [
   {
     name: 'unitless/input.scss',

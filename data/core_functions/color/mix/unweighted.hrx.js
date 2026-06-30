@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/mix/unweighted.hrx
+
 export default [
   {
     name: 'min_and_max/input.scss',

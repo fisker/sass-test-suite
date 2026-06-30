@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/while.hrx
+
 export default [
   {
     name: 'whitespace/before_var/scss/input.scss',

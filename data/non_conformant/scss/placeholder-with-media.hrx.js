@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss/placeholder-with-media.hrx
+
 export default [
   {
     name: 'input.scss',

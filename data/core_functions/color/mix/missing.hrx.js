@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/mix/missing.hrx
+
 export default [
   {
     name: 'explicit/same/legacy/color1/input.scss',

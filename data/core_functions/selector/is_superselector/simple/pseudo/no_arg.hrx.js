@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/is_superselector/simple/pseudo/no_arg.hrx
+
 export default [
   {
     name: 'class/equal/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/adjust/xyz_d65.hrx
+
 export default [
   {
     name: 'x/unitless/input.scss',

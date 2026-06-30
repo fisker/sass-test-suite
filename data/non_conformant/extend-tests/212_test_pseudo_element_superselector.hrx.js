@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/212_test_pseudo_element_superselector.hrx
+
 export default [
   {
     name: 'input.scss',

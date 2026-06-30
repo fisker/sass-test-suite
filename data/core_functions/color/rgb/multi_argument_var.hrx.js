@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/rgb/multi_argument_var.hrx
+
 export default [
   {
     name: '1_of_3/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/basic/52_interchangeable_hyphens_underscores.hrx
+
 export default [
   {
     name: 'input.scss',

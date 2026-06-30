@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/list/nth.hrx
+
 export default [
   {
     name: '1/of_1/input.scss',

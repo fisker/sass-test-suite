@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/basic/35_varargs_false.hrx
+
 export default [
   {
     name: 'input.scss',

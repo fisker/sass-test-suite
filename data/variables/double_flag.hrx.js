@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/variables/double_flag.hrx
+
 export default [
   {
     name: 'default/input.scss',

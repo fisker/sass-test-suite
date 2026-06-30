@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/sass_4_0/color_arithmetic/multiplication/color_color.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/import/error/member.hrx
+
 export default [
   {
     name: 'inaccessible/nested/variable/input.scss',

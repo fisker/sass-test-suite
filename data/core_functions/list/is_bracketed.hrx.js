@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/list/is_bracketed.hrx
+
 export default [
   {
     name: 'unbracketed/empty/input.scss',

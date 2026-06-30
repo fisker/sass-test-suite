@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/scale/lab.hrx
+
 export default [
   {
     name: 'lightness/max/input.scss',

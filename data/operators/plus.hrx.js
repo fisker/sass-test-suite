@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/operators/plus.hrx
+
 export default [
   {
     name: 'syntax/whitespace/neither/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/scale/out_of_gamut.hrx
+
 export default [
   {
     name: 'above_gamut/up/input.scss',

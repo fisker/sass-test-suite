@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/if/error/syntax.hrx
+
 export default [
   {
     name: 'else/partial_if/input.scss',

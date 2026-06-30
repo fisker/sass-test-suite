@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/meta/load_css/error/type.hrx
+
 export default [
   {
     name: 'url/input.scss',

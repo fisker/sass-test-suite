@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/channel/a98-rgb.hrx
+
 export default [
   {
     name: 'local/red/input.scss',

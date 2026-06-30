@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/forward/member/import/import_to_forward/transitive.hrx
+
 export default [
   {
     name: 'transitive/variable/input.scss',

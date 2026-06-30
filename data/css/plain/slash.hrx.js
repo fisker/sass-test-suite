@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/plain/slash.hrx
+
 export default [
   {
     name: 'with_intermediate/input.scss',

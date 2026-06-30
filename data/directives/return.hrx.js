@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/return.hrx
+
 export default [
   {
     name: 'sass/semicolon/input.sass',

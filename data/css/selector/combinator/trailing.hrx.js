@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/selector/combinator/trailing.hrx
+
 export default [
   {
     name: 'single/child/input.scss',

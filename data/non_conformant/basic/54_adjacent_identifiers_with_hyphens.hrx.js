@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/basic/54_adjacent_identifiers_with_hyphens.hrx
+
 export default [
   {
     name: 'input.scss',

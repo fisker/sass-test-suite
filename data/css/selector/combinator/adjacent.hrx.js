@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/selector/combinator/adjacent.hrx
+
 export default [
   {
     name: 'stylesheet/input.scss',

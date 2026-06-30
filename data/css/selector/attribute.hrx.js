@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/selector/attribute.hrx
+
 export default [
   {
     name: 'dash_dash/input.scss',

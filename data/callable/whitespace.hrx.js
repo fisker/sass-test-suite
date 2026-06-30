@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/callable/whitespace.hrx
+
 export default [
   {
     name: 'newlines/function/after_paren/scss/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/functions/error.hrx
+
 export default [
   {
     name: 'single_equals/no_lhs/input.scss',

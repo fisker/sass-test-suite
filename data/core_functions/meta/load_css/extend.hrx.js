@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/meta/load_css/extend.hrx
+
 export default [
   {
     name: 'in_input/before/input.scss',

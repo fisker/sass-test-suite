@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/233_test_extend_cross_branch_redundancy_elimination.hrx
+
 export default [
   {
     name: 'input.scss',

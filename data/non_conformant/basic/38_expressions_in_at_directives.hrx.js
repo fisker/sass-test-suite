@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/basic/38_expressions_in_at_directives.hrx
+
 export default [
   {
     name: 'input.scss',

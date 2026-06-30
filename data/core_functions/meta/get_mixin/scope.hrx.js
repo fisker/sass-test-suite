@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/meta/get_mixin/scope.hrx
+
 export default [
   {
     name: 'stores_local_scope/input.scss',

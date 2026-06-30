@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/parser/interpolate/34_mixed_list/02_variable.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/hwb/three_args/bounds.hrx
+
 export default [
   {
     name: 'whiteness/above/blackness/zero/input.scss',

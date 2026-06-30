@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/unify/complex/distinct.hrx
+
 export default [
   {
     name: 'two_level/input.scss',

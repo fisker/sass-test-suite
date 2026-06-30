@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/libsass-closed-issues/issue_1590/ampersand-as-expression.hrx
+
 export default [
   {
     name: 'input.scss',

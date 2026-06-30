@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/basic/27_media_queries.hrx
+
 export default [
   {
     name: 'input.scss',

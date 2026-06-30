@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/values/lists/equality.hrx
+
 export default [
   {
     name: 'input.scss',

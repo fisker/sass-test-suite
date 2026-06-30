@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/libsass/image-url.hrx
+
 export default [
   {
     name: 'input.scss',

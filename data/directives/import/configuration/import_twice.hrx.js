@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/import/configuration/import_twice.hrx
+
 export default [
   {
     name: 'no_change/input.scss',

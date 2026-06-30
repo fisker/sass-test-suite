@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/scale/rec2020.hrx
+
 export default [
   {
     name: 'red/max/input.scss',

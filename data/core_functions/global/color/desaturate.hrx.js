@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/global/color/desaturate.hrx
+
 export default [
   {
     name: 'input.scss',

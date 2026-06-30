@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/functions/special/error.hrx
+
 export default [
   {
     name: 'whitespace/sass/before_paren/middle/input.sass',

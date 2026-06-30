@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/mix/hue_interpolation.hrx
+
 export default [
   {
     name: 'default/acute/input.scss',

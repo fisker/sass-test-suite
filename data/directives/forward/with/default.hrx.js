@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/forward/with/default.hrx
+
 export default [
   {
     name: 'input.scss',

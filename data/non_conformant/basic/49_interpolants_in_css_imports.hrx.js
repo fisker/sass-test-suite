@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/basic/49_interpolants_in_css_imports.hrx
+
 export default [
   {
     name: 'input.scss',

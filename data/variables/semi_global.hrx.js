@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/variables/semi_global.hrx
+
 export default [
   {
     name: 'in_local/double_nested/input.scss',

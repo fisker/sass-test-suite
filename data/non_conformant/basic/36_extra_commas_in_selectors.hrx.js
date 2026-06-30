@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/basic/36_extra_commas_in_selectors.hrx
+
 export default [
   {
     name: 'input.scss',

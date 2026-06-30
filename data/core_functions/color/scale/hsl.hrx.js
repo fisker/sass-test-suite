@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/scale/hsl.hrx
+
 export default [
   {
     name: 'saturation/max/input.scss',

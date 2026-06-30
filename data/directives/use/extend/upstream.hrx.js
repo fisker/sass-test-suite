@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/use/extend/upstream.hrx
+
 export default [
   {
     name: 'near/input.scss',

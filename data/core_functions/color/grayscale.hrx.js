@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/grayscale.hrx
+
 export default [
   {
     name: 'legacy/no_saturation/white/input.scss',

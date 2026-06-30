@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/223_test_duplicated_selector_with_newlines.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss-tests/177_test_prop_name_interpolation_after_hyphen.hrx
+
 export default [
   {
     name: 'input.scss',

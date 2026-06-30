@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/selector/inline_comments.hrx
+
 export default [
   {
     name: 'silent/comma_before/input.sass',

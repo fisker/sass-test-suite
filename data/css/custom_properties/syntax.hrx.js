@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/custom_properties/syntax.hrx
+
 export default [
   {
     name: 'initial_digit/declare/input.scss',

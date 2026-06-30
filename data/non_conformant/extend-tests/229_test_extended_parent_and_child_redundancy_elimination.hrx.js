@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/229_test_extended_parent_and_child_redundancy_elimination.hrx
+
 export default [
   {
     name: 'input.scss',

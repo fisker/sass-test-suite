@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/use/extend/midstream_extend_within_pseudoselector.hrx
+
 export default [
   {
     name: 'README.md',

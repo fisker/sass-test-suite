@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/parser/interpolate/21_escapes_double_quoted_uppercase/02_variable.hrx
+
 export default [
   {
     name: 'input.scss',

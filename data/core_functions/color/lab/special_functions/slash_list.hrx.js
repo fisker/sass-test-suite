@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/color/lab/special_functions/slash_list.hrx
+
 export default [
   {
     name: 'channels/input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/plain/import/conditions.hrx
+
 export default [
   {
     name: 'unknown/function/empty/input.scss',

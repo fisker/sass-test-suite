@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/misc/selector_interpolation_before_element_name.hrx
+
 export default [
   {
     name: 'input.scss',

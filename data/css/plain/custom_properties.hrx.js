@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/plain/custom_properties.hrx
+
 export default [
   {
     name: 'README.md',

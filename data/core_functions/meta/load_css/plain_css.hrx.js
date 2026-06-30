@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/meta/load_css/plain_css.hrx
+
 export default [
   {
     name: 'empty/user_defined/input.scss',

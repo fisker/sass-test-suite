@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/basic/08_selector_combinators.hrx
+
 export default [
   {
     name: 'input.scss',

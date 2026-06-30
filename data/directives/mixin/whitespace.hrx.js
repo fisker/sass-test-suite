@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/mixin/whitespace.hrx
+
 export default [
   {
     name: 'mixin/before_name/scss/input.scss',

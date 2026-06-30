@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/style_rule.hrx
+
 export default [
   {
     name: 'comment/after_selector/loud/input.scss',

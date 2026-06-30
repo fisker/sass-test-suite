@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/086.1_test_pseudoelement_goes_lefter_than_not.hrx
+
 export default [
   {
     name: 'input.scss',

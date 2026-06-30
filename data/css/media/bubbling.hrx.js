@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/media/bubbling.hrx
+
 export default [
   {
     name: 'unmergeable_and_merged/input.scss',

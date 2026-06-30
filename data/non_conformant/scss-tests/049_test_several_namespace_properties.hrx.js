@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss-tests/049_test_several_namespace_properties.hrx
+
 export default [
   {
     name: 'input.scss',

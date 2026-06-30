@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/is_superselector/list.hrx
+
 export default [
   {
     name: 'two/in_sub/input.scss',

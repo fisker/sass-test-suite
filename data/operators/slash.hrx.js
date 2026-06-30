@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/operators/slash.hrx
+
 export default [
   {
     name: 'namespaced_variables/input.scss',

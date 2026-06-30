@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/libsass-todo-issues/issue_2023/type-selector-id.hrx
+
 export default [
   {
     name: 'input.scss',

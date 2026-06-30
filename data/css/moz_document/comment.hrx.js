@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/moz_document/comment.hrx
+
 export default [
   {
     name: 'before_arg/loud/input.scss',

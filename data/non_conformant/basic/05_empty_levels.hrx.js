@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/basic/05_empty_levels.hrx
+
 export default [
   {
     name: 'input.scss',

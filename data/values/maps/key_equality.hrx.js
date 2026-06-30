@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/values/maps/key_equality.hrx
+
 export default [
   {
     name: 'nan/input.scss',

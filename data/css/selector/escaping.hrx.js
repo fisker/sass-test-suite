@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/selector/escaping.hrx
+
 export default [
   {
     name: 'number_as_first_char_without_space/input.scss',

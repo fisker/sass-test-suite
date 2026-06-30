@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/unify/chooses_superselector.hrx
+
 export default [
   {
     name: 'README.md',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/directives/at_root/property_only.hrx
+
 export default [
   {
     name: 'input.scss',

@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/core_functions/selector/unify/error.hrx
+
 export default [
   {
     name: 'selector1/parent/input.scss',

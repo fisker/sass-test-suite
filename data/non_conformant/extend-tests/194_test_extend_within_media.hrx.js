@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/extend-tests/194_test_extend_within_media.hrx
+
 export default [
   {
     name: 'input.scss',

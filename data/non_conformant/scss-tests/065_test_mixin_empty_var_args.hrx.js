@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/non_conformant/scss-tests/065_test_mixin_empty_var_args.hrx
+
 export default [
   {
     name: 'input.scss',

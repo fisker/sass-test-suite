@@ -1,3 +1,5 @@
+// https://github.com/sass/sass-spec/blob/HEAD/spec/css/custom_properties/nesting_characters.hrx
+
 export default [
   {
     name: 'input.scss',
