@@ -1,0 +1,10 @@
+export default [
+  {
+    name: 'input.scss',
+    data: '%-a ns|*.foo {a: b}\nns|* {@extend .foo} -a {@extend %-a}\n',
+  },
+  {
+    name: 'output.css',
+    data: '-a ns|* {\n  a: b;\n}\n',
+  },
+]

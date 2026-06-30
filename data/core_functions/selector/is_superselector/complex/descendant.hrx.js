@@ -1,0 +1,150 @@
+export default [
+  {
+    name: 'single/in_sub/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("c", "d c")}\n',
+  },
+  {
+    name: 'single/in_sub/output.css',
+    data: 'a {\n  b: true;\n}\n',
+  },
+  {
+    name: 'single/in_super/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("c d", "d")}\n',
+  },
+  {
+    name: 'single/in_super/output.css',
+    data: 'a {\n  b: false;\n}\n',
+  },
+  {
+    name: 'single/in_both/equal/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("c d", "c d")}\n',
+  },
+  {
+    name: 'single/in_both/equal/output.css',
+    data: 'a {\n  b: true;\n}\n',
+  },
+  {
+    name: 'single/in_both/subset/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("c d", "c.e d.f")}\n',
+  },
+  {
+    name: 'single/in_both/subset/output.css',
+    data: 'a {\n  b: true;\n}\n',
+  },
+  {
+    name: 'single/in_both/superset/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("c.e d.f", "c d")}\n',
+  },
+  {
+    name: 'single/in_both/superset/output.css',
+    data: 'a {\n  b: false;\n}\n',
+  },
+  {
+    name: 'multiple/in_sub/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("c", "d e c")}\n',
+  },
+  {
+    name: 'multiple/in_sub/output.css',
+    data: 'a {\n  b: true;\n}\n',
+  },
+  {
+    name: 'multiple/match_first/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("d c", "d e c")}\n',
+  },
+  {
+    name: 'multiple/match_first/output.css',
+    data: 'a {\n  b: true;\n}\n',
+  },
+  {
+    name: 'multiple/match_second/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("e c", "d e c")}\n',
+  },
+  {
+    name: 'multiple/match_second/output.css',
+    data: 'a {\n  b: true;\n}\n',
+  },
+  {
+    name: 'multiple/match_neither/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("f c", "d e c")}\n',
+  },
+  {
+    name: 'multiple/match_neither/output.css',
+    data: 'a {\n  b: false;\n}\n',
+  },
+  {
+    name: 'multiple/extra_middle/README.md',
+    data: 'Regression tests for sass/dart-sass#1843.\n',
+  },
+  {
+    name: 'multiple/extra_middle/descendant/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("a b c", "a x b c")}\n',
+  },
+  {
+    name: 'multiple/extra_middle/descendant/output.css',
+    data: 'a {\n  b: true;\n}\n',
+  },
+  {
+    name: 'multiple/extra_middle/child/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("a b c", "a x > b c")}\n',
+  },
+  {
+    name: 'multiple/extra_middle/child/output.css',
+    data: 'a {\n  b: true;\n}\n',
+  },
+  {
+    name: 'multiple/extra_middle/following_sibling/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("a b c", "a x ~ b c")}\n',
+  },
+  {
+    name: 'multiple/extra_middle/following_sibling/output.css',
+    data: 'a {\n  b: true;\n}\n',
+  },
+  {
+    name: 'multiple/extra_middle/next_sibling/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("a b c", "a x + b c")}\n',
+  },
+  {
+    name: 'multiple/extra_middle/next_sibling/output.css',
+    data: 'a {\n  b: true;\n}\n',
+  },
+  {
+    name: 'and_child/super/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("d c", "d > c")}\n',
+  },
+  {
+    name: 'and_child/super/output.css',
+    data: 'a {\n  b: true;\n}\n',
+  },
+  {
+    name: 'and_child/sub/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("d > c", "d c")}\n',
+  },
+  {
+    name: 'and_child/sub/output.css',
+    data: 'a {\n  b: false;\n}\n',
+  },
+  {
+    name: 'and_child/multiple/first/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("d c", "d > e > c")}\n',
+  },
+  {
+    name: 'and_child/multiple/first/output.css',
+    data: 'a {\n  b: true;\n}\n',
+  },
+  {
+    name: 'and_child/multiple/second/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("e c", "d > e > c")}\n',
+  },
+  {
+    name: 'and_child/multiple/second/output.css',
+    data: 'a {\n  b: true;\n}\n',
+  },
+  {
+    name: 'and_child/multiple/neither/input.scss',
+    data: '@use "sass:selector";\na {b: selector.is-superselector("f c", "d > e > c")}\n',
+  },
+  {
+    name: 'and_child/multiple/neither/output.css',
+    data: 'a {\n  b: false;\n}\n',
+  },
+]

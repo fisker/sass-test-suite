@@ -1,0 +1,10 @@
+export default [
+  {
+    name: 'input.scss',
+    data: "@use \"sass:map\";\n$tablet-portrait:                 768px;\n$tablet-landscape:                980px;\n$desk-normal:                     1120px;\n$desk-big:                        1280px;\n$grid-breakpoints-immobile: (\n        'tablet-portrait':   '(min-width: ' + $tablet-portrait + ') and (max-width: ' + $tablet-landscape + ')',\n        'tablet-landscape':  '(min-width: ' +  $tablet-landscape + ') and (max-width: ' + $desk-normal + ')',\n        'desk-normal':       '(min-width: ' +  $desk-normal + ') and (max-width: ' + $desk-big + ')',\n        'desk-big':          '(min-width: ' +  $desk-big + ')'\n);\n@mixin grid-media-query($media-query, $breakpointDefinitions) {\n  $breakpoint-found: false;\n\n  @each $breakpoint, $breakpointvalue in $breakpointDefinitions{\n    $name: $breakpoint;\n    $declaration: $breakpointvalue;\n\n    @if $media-query == $name and $declaration{\n      $breakpoint-found: true;\n\n      @media only screen and #{$declaration} {\n        @content;\n      }\n    }\n  }\n}\n\n@each $name in map.keys($grid-breakpoints-immobile) {\n  @include grid-media-query($name, $grid-breakpoints-immobile) {\n    body.immobile & {\n      margin-bottom: 0;\n    }\n  }\n}\n",
+  },
+  {
+    name: 'output.css',
+    data: '@media only screen and (min-width: 768px) and (max-width: 980px) {\n  body.immobile & {\n    margin-bottom: 0;\n  }\n}\n@media only screen and (min-width: 980px) and (max-width: 1120px) {\n  body.immobile & {\n    margin-bottom: 0;\n  }\n}\n@media only screen and (min-width: 1120px) and (max-width: 1280px) {\n  body.immobile & {\n    margin-bottom: 0;\n  }\n}\n@media only screen and (min-width: 1280px) {\n  body.immobile & {\n    margin-bottom: 0;\n  }\n}\n',
+  },
+]

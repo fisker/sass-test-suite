@@ -1,9 +1,11 @@
 import assert from 'node:assert'
+import fs from 'node:fs/promises'
 import writePrettierFile from 'write-prettier-file'
 import {downloadFile, readZipFile} from './utilities.js'
 
 const ZIP_URL = 'https://github.com/sass/sass-spec/archive/refs/heads/main.zip'
 const CACHE_FILE = new URL('../.cache/sass-spec.zip', import.meta.url)
+const DATA_DIRECTORY = new URL('../data/', import.meta.url)
 
 await Promise.any(
   [ZIP_URL, `https://ghfast.top/${ZIP_URL}`].map((url) =>
@@ -84,7 +86,20 @@ function* getData() {
   }
 }
 
-await writePrettierFile(
-  new URL('../index.js', import.meta.url),
-  `export default ${JSON.stringify(getData().toArray(), undefined, 2)}`,
-)
+const data = getData().toArray()
+
+await fs.rm(DATA_DIRECTORY, {recursive: true, force: true})
+await Promise.all([
+  ...data.map(async ({name, files}) => {
+    await writePrettierFile(
+      new URL(name + '.js', DATA_DIRECTORY),
+      `export default ${JSON.stringify(files, undefined, 2)}`,
+    )
+  }),
+  writePrettierFile(
+    new URL('./index.js', DATA_DIRECTORY),
+    data
+      .map(({name}) => `export {default as "${name}"} from "./${name}.js"`)
+      .join('\n'),
+  ),
+])

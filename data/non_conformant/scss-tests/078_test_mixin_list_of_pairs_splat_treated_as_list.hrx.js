@@ -1,0 +1,10 @@
+export default [
+  {
+    name: 'input.scss',
+    data: '@mixin foo($a, $b, $c) {\n  a: $a;\n  b: $b;\n  c: $c;\n}\n\n.foo {\n  @include foo((a 1, b 2, c 3)...);\n}\n',
+  },
+  {
+    name: 'output.css',
+    data: '.foo {\n  a: a 1;\n  b: b 2;\n  c: c 3;\n}\n',
+  },
+]

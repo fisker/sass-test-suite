@@ -1,0 +1,14 @@
+export default [
+  {
+    name: 'input.scss',
+    data: '@use "sass:color";\na {\n  four-digit: #0123;\n  eight-digit: #98765432;\n\n  // Verify that the color channels are set correctly.\n  four-digit-red: color.red(#0123);\n  four-digit-green: color.green(#0123);\n  four-digit-blue: color.blue(#0123);\n  four-digit-alpha: color.alpha(#0123);\n\n  eight-digit-red: color.red(#98765432);\n  eight-digit-green: color.green(#98765432);\n  eight-digit-blue: color.blue(#98765432);\n  eight-digit-alpha: color.alpha(#98765432);\n}\n',
+  },
+  {
+    name: 'output.css',
+    data: 'a {\n  four-digit: rgba(0, 17, 34, 0.2);\n  eight-digit: rgba(152, 118, 84, 0.1960784314);\n  four-digit-red: 0;\n  four-digit-green: 17;\n  four-digit-blue: 34;\n  four-digit-alpha: 0.2;\n  eight-digit-red: 152;\n  eight-digit-green: 118;\n  eight-digit-blue: 84;\n  eight-digit-alpha: 0.1960784314;\n}\n',
+  },
+  {
+    name: 'warning',
+    data: 'DEPRECATION WARNING [color-functions]: color.red() is deprecated. Suggestion:\n\ncolor.channel($color, "red", $space: rgb)\n\nMore info: https://sass-lang.com/d/color-functions\n\n  ,\n7 |   four-digit-red: color.red(#0123);\n  |                   ^^^^^^^^^^^^^^^^\n  \'\n    input.scss 7:19  root stylesheet\n\nDEPRECATION WARNING [color-functions]: color.green() is deprecated. Suggestion:\n\ncolor.channel($color, "green", $space: rgb)\n\nMore info: https://sass-lang.com/d/color-functions\n\n  ,\n8 |   four-digit-green: color.green(#0123);\n  |                     ^^^^^^^^^^^^^^^^^^\n  \'\n    input.scss 8:21  root stylesheet\n\nDEPRECATION WARNING [color-functions]: color.blue() is deprecated. Suggestion:\n\ncolor.channel($color, "blue", $space: rgb)\n\nMore info: https://sass-lang.com/d/color-functions\n\n  ,\n9 |   four-digit-blue: color.blue(#0123);\n  |                    ^^^^^^^^^^^^^^^^^\n  \'\n    input.scss 9:20  root stylesheet\n\nDEPRECATION WARNING [color-functions]: color.red() is deprecated. Suggestion:\n\ncolor.channel($color, "red", $space: rgb)\n\nMore info: https://sass-lang.com/d/color-functions\n\n   ,\n12 |   eight-digit-red: color.red(#98765432);\n   |                    ^^^^^^^^^^^^^^^^^^^^\n   \'\n    input.scss 12:20  root stylesheet\n\nDEPRECATION WARNING [color-functions]: color.green() is deprecated. Suggestion:\n\ncolor.channel($color, "green", $space: rgb)\n\nMore info: https://sass-lang.com/d/color-functions\n\n   ,\n13 |   eight-digit-green: color.green(#98765432);\n   |                      ^^^^^^^^^^^^^^^^^^^^^^\n   \'\n    input.scss 13:22  root stylesheet\n\nDEPRECATION WARNING [color-functions]: color.blue() is deprecated. Suggestion:\n\ncolor.channel($color, "blue", $space: rgb)\n\nMore info: https://sass-lang.com/d/color-functions\n\n   ,\n14 |   eight-digit-blue: color.blue(#98765432);\n   |                     ^^^^^^^^^^^^^^^^^^^^^\n   \'\n    input.scss 14:21  root stylesheet\n',
+  },
+]

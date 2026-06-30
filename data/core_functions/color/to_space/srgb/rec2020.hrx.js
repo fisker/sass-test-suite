@@ -1,0 +1,90 @@
+export default [
+  {
+    name: 'black/input.scss',
+    data: '@use "sass:color";\na {b: color.to-space(color(srgb 0 0 0), rec2020)}\n',
+  },
+  {
+    name: 'black/output.css',
+    data: 'a {\n  b: color(rec2020 0 0 0);\n}\n',
+  },
+  {
+    name: 'white/input.scss',
+    data: '@use "sass:color";\na {b: color.to-space(color(srgb 1 1 1), rec2020)}\n',
+  },
+  {
+    name: 'white/output.css',
+    data: 'a {\n  b: color(rec2020 1 1 1);\n}\n',
+  },
+  {
+    name: 'gray/input.scss',
+    data: '@use "sass:color";\na {b: color.to-space(color(srgb 0.5 0.5 0.5), rec2020)}\n',
+  },
+  {
+    name: 'gray/output.css',
+    data: 'a {\n  b: color(rec2020 0.4500400319 0.4500400319 0.4500400319);\n}\n',
+  },
+  {
+    name: 'middle/input.scss',
+    data: '@use "sass:color";\na {b: color.to-space(color(srgb 0.2 0.4 0.8), rec2020)}\n',
+  },
+  {
+    name: 'middle/output.css',
+    data: 'a {\n  b: color(rec2020 0.2739398263 0.3416365439 0.7427746502);\n}\n',
+  },
+  {
+    name: 'out_of_range/near/input.scss',
+    data: '@use "sass:color";\na {b: color.to-space(color(srgb -1 0.4 2), rec2020)}\n',
+  },
+  {
+    name: 'out_of_range/near/output.css',
+    data: 'a {\n  b: color(rec2020 -0.6026796755 0.3067863382 2.048941054);\n}\n',
+  },
+  {
+    name: 'out_of_range/far/input.scss',
+    data: '@use "sass:color";\na {b: color.to-space(color(srgb -999999 0 0), rec2020)}\n',
+  },
+  {
+    name: 'out_of_range/far/output.css',
+    data: 'a {\n  b: color(rec2020 -2540376.5945026004 -941367.6801989076 -492696.4947353633);\n}\n',
+  },
+  {
+    name: 'alpha/partial/input.scss',
+    data: '@use "sass:color";\na {b: color.to-space(color(srgb 0.1 0.2 0.3 / 0.4), rec2020)}\n',
+  },
+  {
+    name: 'alpha/partial/output.css',
+    data: 'a {\n  b: color(rec2020 0.0912836575 0.1341693654 0.2300559367 / 0.4);\n}\n',
+  },
+  {
+    name: 'alpha/transparent/input.scss',
+    data: '@use "sass:color";\na {b: color.to-space(color(srgb 0.1 0.2 0.3 / 0.0), rec2020)}\n',
+  },
+  {
+    name: 'alpha/transparent/output.css',
+    data: 'a {\n  b: color(rec2020 0.0912836575 0.1341693654 0.2300559367 / 0);\n}\n',
+  },
+  {
+    name: 'missing/red/input.scss',
+    data: '@use "sass:color";\na {b: color.to-space(color(srgb none 0.2 0.3), rec2020)}\n',
+  },
+  {
+    name: 'missing/red/output.css',
+    data: 'a {\n  b: color(rec2020 none 0.1318794997 0.2297011255);\n}\n',
+  },
+  {
+    name: 'missing/green/input.scss',
+    data: '@use "sass:color";\na {b: color.to-space(color(srgb 0.1 none 0.3), rec2020)}\n',
+  },
+  {
+    name: 'missing/green/output.css',
+    data: 'a {\n  b: color(rec2020 0.0425725358 none 0.2236924669);\n}\n',
+  },
+  {
+    name: 'missing/blue/input.scss',
+    data: '@use "sass:color";\na {b: color.to-space(color(srgb 0.1 0.2 none), rec2020)}\n',
+  },
+  {
+    name: 'missing/blue/output.css',
+    data: 'a {\n  b: color(rec2020 0.0773513907 0.1314145084 none);\n}\n',
+  },
+]
